@@ -1,0 +1,199 @@
+#aggregator .feed-source .feed-title{margin-top:0;}#aggregator .feed-source .feed-image img{margin-bottom:0.75em;}#aggregator .feed-source .feed-icon{float:right;display:block;}#aggregator .feed-item{margin-bottom:1.5em;}#aggregator .feed-item-title{margin-bottom:0;font-size:1.3em;}#aggregator .feed-item-meta,#aggregator .feed-item-body{margin-bottom:0.5em;}#aggregator .feed-item-categories{font-size:0.9em;}#aggregator td{vertical-align:bottom;}#aggregator td.categorize-item{white-space:nowrap;}#aggregator .categorize-item .news-item .body{margin-top:0;}#aggregator .categorize-item h3{margin-bottom:1em;margin-top:0;}
+.view-team-members .promo-headline,.view-team-members .headline-link,.view-team-members .name-only{font-weight:700!important;}.view-team-members .promo-headline{margin:0!important;}.view-team-members .title,.view-team-members .promo-list-li .promo-copy{font-style:italic;}.view-team-members .title{margin-bottom:10px!important;}.view-team-members .prominent,.view-team-members .basic,.view-team-members .name-only{margin-bottom:20px;overflow:auto;}.view-team-members .prominent .cta-link{color:#a04400;}.view-team-members .name-only .name-only{margin-bottom:10px;padding:0;}.view-team-members .basic .promo-list-li{padding-bottom:10px;}.view-team-members .basic .utexas-promo-field.utexas-promo-list{border-top:none;padding-top:10px !important;}.view-team-members .basic .cta-wrapper{padding-left:76px;}@media only screen and (max-width:40em){.view-team-members .prominent .promo-copy{display:block!important;}}@media only screen and (min-width:40.063em){.view-team-members .basic .cta-wrapper{padding-left:84px;}}@media only screen and (min-width:64.063em){.view-team-members .basic .cta-wrapper{padding-left:97px;}}.basic .two-column > div:nth-child(odd) .promo-list-li{clear:both;}.view-team-members .image-no-link{cursor:default;}.view-team-members .title-no-link:hover{text-decoration:none;cursor:auto;}.container.container-top.container-team-member{border-bottom:none;}.utexas-promo-field.utexas-promo-list div.content.no-image .promo-headline,.utexas-promo-field.utexas-promo-list div.content.no-image .promo-copy,.utexas-promo-field.utexas-promo-unit.utexas_promo_unit_square_image.no-image .promo-copy,.utexas-promo-field.utexas-promo-unit.utexas_promo_unit_square_image.no-image .promo-headline,.utexas-promo-field.utexas-promo-unit.utexas_promo_unit_square_image.no-image .cta-wrapper,.field_bio_block.no-image .field_utexas_quick_links,.view-team-members .no-image .cta-wrapper{padding-left:0px;}
+.container-inline-date{clear:both;}.container-inline-date .form-item{float:none;margin:0;padding:0;}.container-inline-date > .form-item{display:inline-block;margin-right:0.5em;vertical-align:top;}fieldset.date-combo .container-inline-date > .form-item{margin-bottom:10px;}.container-inline-date .form-item .form-item{float:left;}.container-inline-date .form-item,.container-inline-date .form-item input{width:auto;}.container-inline-date .description{clear:both;}.container-inline-date .form-item input,.container-inline-date .form-item select,.container-inline-date .form-item option{margin-right:5px;}.container-inline-date .date-spacer{margin-left:-5px;}.views-right-60 .container-inline-date div{margin:0;padding:0;}.container-inline-date .date-timezone .form-item{clear:both;float:none;width:auto;}.container-inline-date .date-padding{float:left;}fieldset.date-combo .container-inline-date .date-padding{padding:10px;}.views-exposed-form .container-inline-date .date-padding{padding:0;}#calendar_div,#calendar_div td,#calendar_div th{margin:0;padding:0;}#calendar_div,.calendar_control,.calendar_links,.calendar_header,.calendar{border-collapse:separate;margin:0;width:185px;}.calendar td{padding:0;}span.date-display-single{}span.date-display-start{}span.date-display-end{}.date-prefix-inline{display:inline-block;}.date-clear{clear:both;display:block;float:none;}.date-no-float{clear:both;float:none;width:98%;}.date-float{clear:none;float:left;width:auto;}.date-float .form-type-checkbox{padding-right:1em;}.form-type-date-select .form-type-select[class*=hour]{margin-left:.75em;}.date-container .date-format-delete{float:left;margin-top:1.8em;margin-left:1.5em;}.date-container .date-format-name{float:left;}.date-container .date-format-type{float:left;padding-left:10px;}.date-container .select-container{clear:left;float:left;}div.date-calendar-day{background:#F3F3F3;border-top:1px solid #EEE;border-left:1px solid #EEE;border-right:1px solid #BBB;border-bottom:1px solid #BBB;color:#999;float:left;line-height:1;margin:6px 10px 0 0;text-align:center;width:40px;}div.date-calendar-day span{display:block;text-align:center;}div.date-calendar-day span.month{background-color:#B5BEBE;color:white;font-size:.9em;padding:2px;text-transform:uppercase;}div.date-calendar-day span.day{font-size:2em;font-weight:bold;}div.date-calendar-day span.year{font-size:.9em;padding:2px;}.date-form-element-content-multiline{padding:10px;border:1px solid #CCC;}.form-item.form-item-instance-widget-settings-input-format-custom,.form-item.form-item-field-settings-enddate-required{margin-left:1.3em;}#edit-field-settings-granularity .form-type-checkbox{margin-right:.6em;}.date-year-range-select{margin-right:1em;}
+#ui-datepicker-div{font-size:100%;font-family:Verdana,sans-serif;background:#eee;border-right:2px #666 solid;border-bottom:2px #666 solid;z-index:9999;}.ui-datepicker{width:17em;padding:.2em .2em 0;}.ui-datepicker .ui-datepicker-header{position:relative;padding:.2em 0;}.ui-datepicker .ui-datepicker-prev,.ui-datepicker .ui-datepicker-next{position:absolute;top:2px;width:1.8em;height:1.8em;}.ui-datepicker .ui-datepicker-prev-hover,.ui-datepicker .ui-datepicker-next-hover{top:1px;}.ui-datepicker .ui-datepicker-prev{left:2px;}.ui-datepicker .ui-datepicker-next{right:2px;}.ui-datepicker .ui-datepicker-prev-hover{left:1px;}.ui-datepicker .ui-datepicker-next-hover{right:1px;}.ui-datepicker .ui-datepicker-prev span,.ui-datepicker .ui-datepicker-next span{display:block;position:absolute;left:50%;margin-left:-8px;top:50%;margin-top:-8px;}.ui-datepicker .ui-datepicker-title{margin:0 2.3em;line-height:1.8em;text-align:center;}.ui-datepicker .ui-datepicker-title select{float:left;font-size:1em;margin:1px 0;}.ui-datepicker select.ui-datepicker-month-year{width:100%;}.ui-datepicker select.ui-datepicker-month,.ui-datepicker select.ui-datepicker-year{width:49%;}.ui-datepicker .ui-datepicker-title select.ui-datepicker-year{float:right;}.ui-datepicker table{width:100%;font-size:.9em;border-collapse:collapse;margin:0 0 .4em;}.ui-datepicker th{padding:.7em .3em;text-align:center;font-weight:bold;border:0;}.ui-datepicker td{border:0;padding:1px;}.ui-datepicker td span,.ui-datepicker td a{display:block;padding:.2em;text-align:right;text-decoration:none;}.ui-datepicker .ui-datepicker-buttonpane{background-image:none;margin:.7em 0 0 0;padding:0 .2em;border-left:0;border-right:0;border-bottom:0;}.ui-datepicker .ui-datepicker-buttonpane button{float:right;margin:.5em .2em .4em;cursor:pointer;padding:.2em .6em .3em .6em;width:auto;overflow:visible;}.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current{float:left;}.ui-datepicker.ui-datepicker-multi{width:auto;}.ui-datepicker-multi .ui-datepicker-group{float:left;}.ui-datepicker-multi .ui-datepicker-group table{width:95%;margin:0 auto .4em;}.ui-datepicker-multi-2 .ui-datepicker-group{width:50%;}.ui-datepicker-multi-3 .ui-datepicker-group{width:33.3%;}.ui-datepicker-multi-4 .ui-datepicker-group{width:25%;}.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header{border-left-width:0;}.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header{border-left-width:0;}.ui-datepicker-multi .ui-datepicker-buttonpane{clear:left;}.ui-datepicker-row-break{clear:both;width:100%;}.ui-datepicker-rtl{direction:rtl;}.ui-datepicker-rtl .ui-datepicker-prev{right:2px;left:auto;}.ui-datepicker-rtl .ui-datepicker-next{left:2px;right:auto;}.ui-datepicker-rtl .ui-datepicker-prev:hover{right:1px;left:auto;}.ui-datepicker-rtl .ui-datepicker-next:hover{left:1px;right:auto;}.ui-datepicker-rtl .ui-datepicker-buttonpane{clear:right;}.ui-datepicker-rtl .ui-datepicker-buttonpane button{float:left;}.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current{float:right;}.ui-datepicker-rtl .ui-datepicker-group{float:right;}.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header{border-right-width:0;border-left-width:1px;}.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header{border-right-width:0;border-left-width:1px;}
+.field .field-label{font-weight:bold;}.field-label-inline .field-label,.field-label-inline .field-items{float:left;}form .field-multiple-table{margin:0;}form .field-multiple-table th.field-label{padding-left:0;}form .field-multiple-table td.field-multiple-drag{width:30px;padding-right:0;}form .field-multiple-table td.field-multiple-drag a.tabledrag-handle{padding-right:.5em;}form .field-add-more-submit{margin:.5em 0 0;}
+.node-unpublished{background-color:#fff4f4;}.preview .node{background-color:#ffffea;}td.revision-current{background:#ffc;}
+#permissions td.module{font-weight:bold;}#permissions td.permission{padding-left:1.5em;}#permissions tr.odd .form-item,#permissions tr.even .form-item{white-space:normal;}#user-admin-settings fieldset .fieldset-description{font-size:0.85em;padding-bottom:.5em;}#user-admin-roles td.edit-name{clear:both;}#user-admin-roles .form-item-name{float:left;margin-right:1em;}.password-strength{width:17em;float:right;margin-top:1.4em;}.password-strength-title{display:inline;}.password-strength-text{float:right;font-weight:bold;}.password-indicator{background-color:#C4C4C4;height:0.3em;width:100%;}.password-indicator div{height:100%;width:0%;background-color:#47C965;}input.password-confirm,input.password-field{width:16em;margin-bottom:0.4em;}div.password-confirm{float:right;margin-top:1.5em;visibility:hidden;width:17em;}div.form-item div.password-suggestions{padding:0.2em 0.5em;margin:0.7em 0;width:38.5em;border:1px solid #B4B4B4;}div.password-suggestions ul{margin-bottom:0;}.confirm-parent,.password-parent{clear:left;margin:0;width:36.3em;}.profile{clear:both;margin:1em 0;}.profile .user-picture{float:right;margin:0 1em 1em 0;}.profile h3{border-bottom:1px solid #ccc;}.profile dl{margin:0 0 1.5em 0;}.profile dt{margin:0 0 0.2em 0;font-weight:bold;}.profile dd{margin:0 0 1em 0;}
+
+
+.gsc-selected-option-container{min-width:80px !important;}.div-google-results{font-family:"LibreFrank",Arial,Helvetica,sans-serif;}.container-topnav .topnav ul.connect-links{top:-7px;}
+#block-views-news-news-titles-only .post-headline,#block-views-news-news-with-thumbnails .post-headline{border-bottom:2px solid #3c87a3;font-weight:700;margin:0 0 20px;padding-bottom:7px;}#block-views-news-news-titles-only .headline-link,#block-views-news-news-with-thumbnails .headline-link{color:#333f48;font-size:0.9375rem;line-height:1.375rem;margin:0 0 4px;}@media only screen and (min-width:40.063em){#block-views-news-news-titles-only .headline-link,#block-views-news-news-with-thumbnails .headline-link{font-size:1.25rem;line-height:1.625rem;margin:0 0 6px;}}#block-views-news-news-titles-only .utexas-news-date,#block-views-news-news-with-thumbnails .utexas-news-date{float:left;}#block-views-news-news-titles-only .utexas-news-date div.field-content,#block-views-news-news-with-thumbnails .utexas-news-date div.field-content{font-style:italic;font-size:14px;display:inline;}#block-views-news-news-titles-only .utexas-news-date div.field-content:after,#block-views-news-news-with-thumbnails .utexas-news-date div.field-content:after{content:" â€” ";padding-right:4px;}#block-views-news-news-titles-only .views-field.views-field-title a,#block-views-news-news-with-thumbnails .views-field.views-field-title a{color:#A04400;}#block-views-news-news-titles-only .views-field.views-field-title a:after,#block-views-news-news-with-thumbnails .views-field.views-field-title a:after{font-family:'UT_icons';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:"\f100";padding-left:5px;}#block-views-news-news-titles-only .views-field.views-field-title a:hover,#block-views-news-news-with-thumbnails .views-field.views-field-title a:hover{text-decoration:none;}#block-views-news-news-titles-only .views-field.views-field-title a span:hover,#block-views-news-news-with-thumbnails .views-field.views-field-title a span:hover{text-decoration:underline;}#block-views-news-news-titles-only .external_linked .views-field.views-field-title a:after,#block-views-news-news-with-thumbnails .external_linked .views-field.views-field-title a:after{font-family:'UT_icons';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:"\f113";padding-left:8px;font-size:14px;}#block-views-news-news-with-thumbnails{margin-bottom:20px;}#block-views-news-news-with-thumbnails .views-field.views-field-field-news-main-image{margin-right:15px;float:left;margin-bottom:10px;margin-top:5px;width:80px;}@media only screen and (min-width:40.063em){#block-views-news-news-with-thumbnails .views-field.views-field-field-news-main-image{width:120px;}}#block-views-news-news-with-thumbnails .views-field.views-field-field-news-main-image img{width:100%;}#block-views-news-news-with-thumbnails .views-field.views-field-title{padding-left:95px;}@media only screen and (min-width:40.063em){#block-views-news-news-with-thumbnails .views-field.views-field-title{padding-left:135px;}}#block-views-news-news-with-thumbnails .views-row-odd{clear:left;}#block-views-news-news-with-thumbnails .views-row{padding-bottom:20px;}#block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style{margin-bottom:20px;}@media only screen and (min-width:40.063em){#block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style{margin-bottom:35px;}}#block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style .views-row{display:block;padding:20px 22px 0;width:100%;}#block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style .views-row .views-field-field-news-main-image{width:60px;margin-bottom:0;}#block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style .views-row .utexas-news-date{float:none;}#block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style .views-row .utexas-news-date .field-content::after{content:'';padding-right:0;}#block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style .views-row .views-field.views-field-title{padding-left:75px;}#block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style .views-row .views-field.views-field-title a{font-size:15px;}#block-views-news-news-titles-only .views-row{margin-bottom:15px;padding-bottom:0;}#block-views-news-news-titles-only.sidebar-module.sidebar-default-style{padding-bottom:0;}#block-views-news-news-titles-only.sidebar-module.sidebar-default-style .content{padding:10px 15px 10px 15px;}#block-views-news-news-titles-only.sidebar-module.sidebar-default-style a{font-size:15px;}.region-main-content-top-left,.region-main-content-top-right{}@media only screen and (min-width:64.063em){.region-main-content-top-left #block-views-news-news-with-thumbnails .views-row,.region-main-content-top-right #block-views-news-news-with-thumbnails .views-row{width:100%;}}.region-content-top-right #block-views-news-news-with-thumbnails .views-row{width:100%;}.region-content-top-right #block-views-news-news-with-thumbnails .utexas-news-date{float:none;}.region-content-top-right #block-views-news-news-with-thumbnails .utexas-news-date .field-content::after{content:'';padding-right:0;}.region-content-top-right #block-views-news-news-with-thumbnails .views-field.views-field-field-news-main-image{width:80px;}.region-content-top-right #block-views-news-news-with-thumbnails .views-field.views-field-title{padding-left:95px;}.container.container-bottom.accent #block-views-news-news-titles-only{padding-bottom:20px;}.container.container-bottom.accent #block-views-news-news-titles-only.sidebar-module.sidebar-default-style{}@media only screen and (max-width:40em){.container.container-bottom.accent #block-views-news-news-titles-only.sidebar-module.sidebar-default-style{padding:0 6px;}.container.container-bottom.accent #block-views-news-news-titles-only.sidebar-module.sidebar-default-style .sidebar-headline{padding:5px 15px;}}.container.container-bottom.accent #block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style{}@media only screen and (max-width:40em){.container.container-bottom.accent #block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style{padding:0 10px !important;}}.container.container-bottom.accent #block-views-news-news-with-thumbnails .view-id-news{padding-bottom:15px;}.container.container-bottom.accent #block-views-news-news-titles-only,.container.container-bottom.accent #block-views-news-news-with-thumbnails{background-color:#fff;border:1px solid #333f48;padding:20px 20px 3px;}.container.container-bottom.accent #block-views-news-news-titles-only .post-headline,.container.container-bottom.accent #block-views-news-news-with-thumbnails .post-headline{padding-left:0;}.container.container-bottom.accent #block-views-news-news-titles-only.sidebar-module.sidebar-default-style,.container.container-bottom.accent #block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style{padding:0;}.container.container-bottom.accent #block-views-news-news-titles-only.sidebar-module.sidebar-default-style .sidebar-headline,.container.container-bottom.accent #block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style .sidebar-headline{background-color:transparent;border-bottom:none;padding-top:20px;}.container.container-bottom.accent #block-views-news-news-titles-only.sidebar-module.sidebar-default-style .sidebar-headline h3,.container.container-bottom.accent #block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style .sidebar-headline h3{border-bottom:2px solid #3c87a3;padding-bottom:7px;padding-top:8px;font-size:18px;}@media only screen and (min-width:64.063em){.container.container-bottom.accent #block-views-news-news-titles-only.sidebar-module.sidebar-default-style .sidebar-headline h3,.container.container-bottom.accent #block-views-news-news-with-thumbnails.sidebar-module.sidebar-default-style .sidebar-headline h3{font-size:20px;}}.node-type-news .fieldblock.block.field_news_publication_date .field.field_news_publication_date{display:inline-block;padding-left:10px;}.node-type-news .fieldblock.block.field_news_publication_date .icon-calendar{font-size:25px;}.node-type-news .field.field_news_tags{padding-left:40px;}.node-type-news .field.field_news_tags a{color:#282828;background:#dedede none repeat scroll 0 0;border-radius:2px;display:inline-block;font-style:italic;margin-bottom:5px;padding:5px 10px;-webkit-transition:background 0.1s ease-in-out 0s;transition:background 0.1s ease-in-out 0s;}.node-type-news .field.field_news_tags a:hover{background:#cdcdcd;text-decoration:none;}.node-type-news .icon-tag{float:left;padding-top:9px;}.node-type-news .social-share ul.social-links li.social-share-li{}@media only screen and (min-width:40.063em){.node-type-news .social-share ul.social-links li.social-share-li{border-top:none !important;border-bottom:1px solid #e1ddd2 !important;}.node-type-news .social-share ul.social-links li.social-share-li:nth-child(1),.node-type-news .social-share ul.social-links li.social-share-li:nth-child(2),.node-type-news .social-share ul.social-links li.social-share-li:nth-child(3){border-top:1px solid #e1ddd2 !important;}.node-type-news .social-share ul.social-links li.social-share-li:nth-child(4),.node-type-news .social-share ul.social-links li.social-share-li:nth-child(7){border-left:1px solid #e1ddd2 !important;}}.page-taxonomy-term .node-news,.view-id-news.view-display-id-page_news .node-news{border-top:2px solid #3c87a3;padding-bottom:20px;padding-top:10px;}@media only screen and (min-width:64.063em){.page-taxonomy-term .node-news,.view-id-news.view-display-id-page_news .node-news{padding-top:0;}}.page-taxonomy-term .node-news:nth-child(2),.view-id-news.view-display-id-page_news .node-news:nth-child(2){border-top:none;}.page-taxonomy-term .node-news h2 > a,.view-id-news.view-display-id-page_news .node-news h2 > a{font-weight:700;margin:0 0 20px;padding-bottom:7px;font-size:22px;color:#282828;line-height:1;}.page-taxonomy-term .node-news .links > .node-readmore,.view-id-news.view-display-id-page_news .node-news .links > .node-readmore{padding:0;}.page-taxonomy-term .node-news .links > .node-readmore > a,.view-id-news.view-display-id-page_news .node-news .links > .node-readmore > a{background:#bf5700 none repeat scroll 0 0;border-radius:3px;color:white;font-size:14px;padding:5px 10px;text-decoration:none;-webkit-transition:background-color .1s ease-in-out;transition:background-color .1s ease-in-out;}.page-taxonomy-term .node-news .links > .node-readmore > a:hover,.view-id-news.view-display-id-page_news .node-news .links > .node-readmore > a:hover{background-color:#A04400;}.page-taxonomy-term .node-news .links > .node-readmore > a:after,.view-id-news.view-display-id-page_news .node-news .links > .node-readmore > a:after{font-family:'UT_icons';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:"\f100";padding-left:5px;vertical-align:middle;}.page-taxonomy-term .node-news .teaser_date,.view-id-news.view-display-id-page_news .node-news .teaser_date{float:left;font-style:italic;font-size:14px;display:inline;margin-top:4px;}.page-taxonomy-term .node-news .teaser_date:after,.view-id-news.view-display-id-page_news .node-news .teaser_date:after{content:" â€” ";padding-right:4px;}.view-id-news.view-display-id-page_1 .views-row:first-child .node-news{border-top:none;}
+.video-left{float:left;}.video-right{float:right;}.video-center{display:block;margin:0 auto;}
+.views-exposed-form .views-exposed-widget{float:left;padding:.5em 1em 0 0;}.views-exposed-form .views-exposed-widget .form-submit{margin-top:1.6em;}.views-exposed-form .form-item,.views-exposed-form .form-submit{margin-top:0;margin-bottom:0;}.views-exposed-form label{font-weight:bold;}.views-exposed-widgets{margin-bottom:.5em;}.views-align-left{text-align:left;}.views-align-right{text-align:right;}.views-align-center{text-align:center;}.views-view-grid tbody{border-top:none;}.view .progress-disabled{float:none;}
+
+
+/*need to resolve this location*/
+@font-face {
+	font-family: 'UT_icons';
+	src:url('https://www.lib.utexas.edu/profiles/utexas/modules/custom/utexas_fonts/Icons/UT_icons.eot');
+	src:url('https://www.lib.utexas.edu/profiles/utexas/modules/custom/utexas_fonts/Icons/UT_icons.eot?#iefixi9zati') format('embedded-opentype'),
+		url('https://www.lib.utexas.edu/profiles/utexas/modules/custom/utexas_fonts/Icons/UT_icons.ttf') format('truetype'),
+		url('https://www.lib.utexas.edu/profiles/utexas/modules/custom/utexas_fonts/Icons/UT_icons.woff') format('woff'),
+		url('https://www.lib.utexas.edu/profiles/utexas/modules/custom/utexas_fonts/Icons/UT_icons.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'UT_icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+  vertical-align: middle;
+  position: relative;
+  top: -2px;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-youtube3:before {
+  content: "\ea9d";
+}
+.icon-youtube2:before {
+  content: "\ea9e";
+}
+.icon-snapchat:before {
+  content: "\e901";
+}
+.icon-controller-play:before {
+  content: "\e900";
+}
+.icon-facebook2:before {
+  content: "\ea90";
+}
+.icon-instagram2:before {
+  content: "\ea92";
+}
+.icon-clock:before {
+  content: "\e94e";
+}
+.icon-link:before {
+  content: "\e9cb";
+}
+.icon-location:before {
+  content: "\f060";
+}
+.icon-vimeo2:before {
+  content: "\eaa1";
+}
+.icon-vimeo-square:before {
+  content: "\f194";
+}
+.icon-envelope:before {
+  content: "\f003";
+}
+.icon-heart:before {
+  content: "\f004";
+}
+.icon-star:before {
+  content: "\f005";
+}
+.icon-check:before {
+  content: "\f00c";
+}
+.icon-remove:before {
+  content: "\f00d";
+}
+.icon-file:before {
+  content: "\f016";
+}
+.icon-lock:before {
+  content: "\f023";
+}
+.icon-warning:before, .icon-exclamation-triangle:before {
+  content: "\f071";
+}
+.icon-comment:before {
+  content: "\f075";
+}
+.icon-retweet:before {
+  content: "\f079";
+}
+.icon-phone:before {
+  content: "\f095";
+}
+.icon-twitter-bird:before {
+  content: "\f099";
+}
+.icon-caret-down:before {
+  content: "\f0d7";
+}
+.icon-file-text:before {
+  content: "\f0f6";
+}
+.icon-mail-reply:before {
+  content: "\f11a";
+}
+.icon-calendar:before {
+  content: "\f133";
+}
+.icon-reply:before, .icon-reply2:before {
+  content: "\e600";
+}
+.icon-links:before {
+  content: "\f100";
+}
+.icon-buttons:before {
+  content: "\f101";
+}
+.icon-search:before {
+  content: "\f102";
+}
+.icon-menu:before {
+  content: "\f103";
+}
+.icon-facebook:before {
+  content: "\f104";
+}
+.icon-twitter:before {
+  content: "\f105";
+}
+.icon-youtube:before {
+  content: "\f106";
+}
+.icon-flickr:before {
+  content: "\f107";
+}
+.icon-chevron-down:before {
+  content: "\f108";
+}
+.icon-chevron-up:before {
+  content: "\f109";
+}
+.icon-linkedin:before {
+  content: "\f110";
+}
+.icon-mail:before, .icon-email:before {
+  content: "\f111";
+}
+.icon-alert:before {
+  content: "\f112";
+}
+.icon-external-link:before {
+  content: "\f113";
+}
+.icon-announcement:before {
+  content: "\f114";
+}
+.icon-twitterInverse:before {
+  content: "\f115";
+}
+.icon-beacon:before {
+  content: "\f116";
+}
+.icon-reddit:before {
+  content: "\f117";
+}
+.icon-googleplus:before {
+  content: "\f118";
+}
+.icon-tumblr:before {
+  content: "\f119";
+}
+.icon-instagram:before {
+  content: "\f120";
+}
+.icon-pinterest:before {
+  content: "\f121";
+}
+.icon-more:before {
+  content: "\f122";
+}
+.icon-close:before {
+  content: "\f123";
+}
